@@ -6,7 +6,7 @@ This repository has all of the python code and methods for a Comprehensive inter
 ![cbw_vsh](geolog.png)
 
 
-**Geolog Loglan Modules**
+**Geolog Loglan Modules used in this Workflow**
 
 ![cbw_vsh](ws_interactive.png)
 
