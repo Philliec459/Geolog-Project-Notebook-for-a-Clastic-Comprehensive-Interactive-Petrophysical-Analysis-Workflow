@@ -1,6 +1,15 @@
 # Geolog-Project-Notebook-for-a-Comprehensive-Interactive-Petrophysical-Analysis-Workflow
 This repository has all of the python code and methods for a Comprehensive interactive petrophysical analysis workflow using python’s Panel and Param for both Jupyter Notebooks and as python loglans in a Geolog project. 
 
+**Geolog Final Depth Plot**
+
+![cbw_vsh](geolog.png)
+
+**Interactive Widgets using python Panem and Param libraries in our Interactive Workflow**
+
+![cbw_vsh](Shaley_Sand.gif)
+
+
 The workflow of this project includes the following steps:
 
 1)	1_phit_chartbook
