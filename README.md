@@ -5,7 +5,12 @@ This repository has all of the python code and methods for a Comprehensive inter
 
 ![cbw_vsh](geolog.png)
 
-**Interactive Widgets using python Panem and Param libraries in our Interactive Workflow**
+
+**Geolog Loglan Modules**
+
+![cbw_vsh](ws_interactive.png)
+
+**Interactive Widgets using python Panel and Param libraries in our Interactive Workflow**
 
 ![cbw_vsh](Shaley_Sand.gif)
 
