@@ -30,7 +30,7 @@ In his module we calculate a final Vsh from multiple shale indicators in a Hodge
 4)	4_CBW
 We use this interactive loglan to model CBW in order to calculate PHIE. The calibration data for our trend is based on the difference between  PHIT and our NMR effective porosity: 
 
-        CBWa = PHIT – MPHI 
+                CBWa = PHIT – MPHI 
 
 and then use the CVWa vs. Vsh, and then use the trend of these data to model CBW for the entire well to correct for any light hydrocarbon intervals for an accurate CBW for the entire well.
 
@@ -49,10 +49,12 @@ and then calculate Qv using the Hill Shirley and Klein equation shown below:
 
         		Qv = Swb / (0.6425 / ((Fluid_Density * Salinity(kppm)) ** 0.5) + 0.22)
 
+
 6)	6_wsats
-In this program we calculate water saturations using Archie, Dual Water and Waxman-Smits. 
+In this program we calculate water saturations using Archie, Dual Water and Waxman-Smits. The Dual-Water method comes from George Coates’ MRIAN analysis where he used a systematic approach of using both conventional and NMR logs to perform his calculations. Experience has shown that this method is extremely good with very little adjustment needed for any of the petrophysical parameters like w. The Waxman-Smits technique is more tunable, but eventually delivers nearly the same results as Coates’ Dual-Water analysis. The Dual-Water uses a variable w for the electrical property and the Waxman-Smits uses a variable m* in the water saturation calculations. 
 
 
 7)	7_Permeability and Relative Permeability Calculations 
 This is the final program that calculates Permeability from NMR and then calculates Relative Permeability for Oil and Water to estimate a production index at each level using fractional flow. 
+
 
