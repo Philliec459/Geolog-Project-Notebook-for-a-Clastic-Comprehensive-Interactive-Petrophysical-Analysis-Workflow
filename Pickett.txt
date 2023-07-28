@@ -1,0 +1,4 @@
+m_cem: 1.9
+n_sat: 2.0
+Rw: 0.03
+mslope: 1
