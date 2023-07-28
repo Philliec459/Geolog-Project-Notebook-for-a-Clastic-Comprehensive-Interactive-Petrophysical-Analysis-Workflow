@@ -1,5 +1,5 @@
 # Geolog-Project-Notebook-for-a-Comprehensive-Interactive-Petrophysical-Analysis-Workflow
-This repository has all of the python code and methods for a Comprehensive interactive petrophysical analysis workflow using python’s Panel and Param for both Jupyter Notebooks and as python loglans in a complete Geolog project that is in a zip format. 
+This repository contains all of the python code and methods for a Comprehensive interactive petrophysical analysis workflow using python’s Panel and Param libraries for both a Jupyter Notebooks or as python loglans in a complete Geolog project that is in a zip format. 
 
 
 **Geolog Loglan Modules used in this Workflow:**
